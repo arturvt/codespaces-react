@@ -2,7 +2,7 @@ import './App.css';
 import Home from './pages/Home';
 import Layout from './pages/Layout';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Clock from './pages/Clock';
+import Clock from './pages/clock/Clock';
 import Info from './pages/Info';
 import NoPage from './pages/NoPage';
 
